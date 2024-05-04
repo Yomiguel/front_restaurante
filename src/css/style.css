@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    color: #333;
+    background-color: #ffffff;
+    cursor:pointer;
+}
+
+video{
+    width: 100%;
+}
+
+#logo-mawii {
+    height: 25vh;
+}
+
+.container-video{
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+    border-color: #7FB3D5;
+}
+
+.content-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 20%;
+}
+
+.menu-list{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.item-list {
+    padding: 50px;
+    font-size: 2vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+/**********************************Pie página************************************************/
+
+a {
+    text-decoration: none;
+}
+.content-footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 20%;
+    background-color: #378BA4;
+}
+
+
+.logo-redes { 
+    height: 25vh;
+
+}
+
+.redes-sociales {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu2-list {
+    display:flex;
+    list-style: none;
+    justify-content: space-between;
+}
