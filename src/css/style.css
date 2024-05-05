@@ -3,6 +3,7 @@ body {
     color: #333;
     background-color: #ffffff;
     cursor:pointer;
+    justify-content: center;
 }
 
 video{
@@ -84,3 +85,4 @@ a {
     
 
 }
+
