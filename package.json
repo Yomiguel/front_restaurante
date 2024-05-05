@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/html/index.html",
+    "start": "parcel src/html/index.html src/html/about.html src/html/contacto.html src/html/galeria.html src/html/location.html src/html/menu.html src/html/reservas.html src/html/disclamer.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
